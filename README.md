@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+##### Connect with me 
+
+<div align="center">
+    <!-- Replace href with your links -->
+    <a href="https://www.in.linkedin.com/in/ayushsn99">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
+
 <!--
 **cloudwithayu/cloudwithayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
